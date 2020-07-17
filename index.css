@@ -1,0 +1,238 @@
+body 
+	{
+		background: url('spacebg.png');
+	}
+
+h1	
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 680%;
+		color: #00997a;
+		margin-left: 270px;
+		margin-right: 30%;
+		background: url('headerbg.png');
+		border: gray solid 3px;
+	}
+	
+a 
+	{
+		color: #00997a;
+	}
+	
+img 	
+	{
+		color: white;
+	}
+	
+#toc /* Table of Contents */
+	{
+		float: left;
+		border: gray solid 5px;
+		padding: 10px;
+		margin-left: 20px;
+		color: #006699;	
+		background-color: #adadeb;	
+		font-family: Lucida Sans Unicode, serif;
+	}
+	
+#about  /* Centers head1 - applied to About */
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 30px;
+		color: white;
+		text-align: center;
+		margin-right: 160px;
+	}
+	
+#planets /* Centers head1 - applied to Planets */
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 30px;
+		color: white;
+		text-align: center;
+		margin-right: 160px;
+	}
+	
+#typeOfplanets /* Centers head2 - applied to Type of Planets */
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 20px;
+		color: white;
+		text-align: center;
+		margin-right: 160px;
+	}
+	
+#planetMoons /* Centers head2 - applied to Planet Moons */
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 20px;
+		color: white;
+		text-align: center;
+		margin-right: 160px;
+	}
+	
+#whyDoplanets /* Centers head3 - applied to Why do Planets exist */
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 20px;
+		color: white;
+		text-align: center;
+		margin-left: 110px;
+	}
+	
+#howDidplanets /* Centers head4 - applied to How did Planets form */
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 16px;
+		color: white;
+		text-align: center;
+		margin-left: 110px;
+	}
+	
+#whyDidplanets /* Centers head4 - applied to Why did Planets form */
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 16px;
+		color: white;
+		text-align: center;
+		margin-left: 110px;
+	}
+	
+#mer
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 30px;
+		color: white;
+		margin-left: 110px;
+		text-align: center;
+	}
+	
+#ven
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 30px;
+		color: white;
+		margin-left: 110px;
+		text-align: center;
+	}
+	
+#ear
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 30px;
+		color: white;
+		margin-left: 110px;;
+		text-align: center;
+	}
+	
+#mar
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 30px;
+		color: white;
+		margin-left: 110px;
+		text-align: center;
+	}
+	
+#jup
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 30px;
+		color: white;
+		margin-left: 110px;
+		text-align: center;
+	}
+	
+#sat
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 30px;
+		color: white;
+		margin-left: 110px;
+		text-align: center;
+	}
+	
+#ura
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 30px;
+		color: white;
+		margin-left: 110px;
+		text-align: center;
+	}
+	
+#nep
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 30px;
+		color: white;
+		margin-left: 110px;
+		text-align: center;
+	}
+	
+.pcenter /* Centers main info - applied to p */
+	{
+		font-family: arial, verdana, sans-serif;
+		margin-left: 320px;
+		margin-right: 190px;
+		padding: 5px;
+		border: gray solid 5px;	
+		color: #006699;
+		background-color: #adadeb;
+	}
+	
+.toolbar
+	{
+		color:#00997a;
+		float: right;
+		margin-right: 2%;
+		font-size: 25px;
+	}
+	
+.refcites
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 20px;
+		color: #00997a;
+		margin-left: 1%;
+		border: 0;
+		background-image: none;
+	}
+
+.rclist
+	{	
+		color: gray;
+		font-size: 15px;
+		margin: 0%;
+		margin: 0%;
+	}
+	
+.title
+	{
+		font-family: arial, verdana, sans-serif;
+		font-size: 30px;
+		color: white;
+		margin-left: 600px;
+		margin-right: 475px;
+		text-align: center;
+	}
+	
+.imgcenter
+	{		
+		margin-left: 47%;
+		display: block;
+		padding: 5px;
+	}
+	
+.a 
+	{
+		color: red;
+	}
+	
+.satcenter
+	{		
+		margin-left: 42%;
+		display: block;
+		padding: 5px;
+	}
+	
